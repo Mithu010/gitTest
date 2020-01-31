@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="640" started-at="2019-03-28T05:30:38Z" finished-at="2019-03-28T05:30:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="640" started-at="2019-03-28T05:30:38Z" finished-at="2019-03-28T05:30:39Z">
+      <class name="MavenPackage.TestExcel">
+        <test-method status="PASS" signature="testExcel()[pri:0, instance:MavenPackage.TestExcel@148080bb]" name="testExcel" duration-ms="602" started-at="2019-03-28T05:30:38Z" finished-at="2019-03-28T05:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExcel -->
+      </class> <!-- MavenPackage.TestExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
